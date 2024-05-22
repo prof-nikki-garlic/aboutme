@@ -4,10 +4,10 @@
 Access to Justice / Text Analytics and Chatbots
 
 ### Education
-- PhD Media & Communication | Temple University _2023_
-- LLM Transnational Law / Temple University _2011_
-- JD Georgetown Law Center _2000_
-- BA Communication University of Pennsylvania _1997_
+  PhD Media & Communication | Temple University | _2023_
+- LLM Transnational Law | Temple University | _2011_
+- JD | Georgetown Law Center | _2000_
+- BA Communication | University of Pennsylvania | _1997_
 
 ### Clerkships
 - US District Court for the District of New Jersey
