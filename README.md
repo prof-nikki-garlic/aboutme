@@ -5,7 +5,7 @@ Access to Justice / Text Analytics and Chatbots
 
 ### Education
 PhD Media & Communication | Temple University _2023_
-- LLM Temple University _2011_
+LLM Transnational Law / Temple University _2011_
 - JD Georgetown Law Center _2000_
 - BA Communication University of Pennsylvania _1997_
 
