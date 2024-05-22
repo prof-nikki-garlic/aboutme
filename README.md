@@ -4,17 +4,17 @@
 Access to Justice / Text Analytics and Chatbots
 
 ### Education
-- PhD Temple University, 2023
-- LLM Temple University, 2011
-- JD Georgetown Law Center, 2000
-- BA Communication University of Pennsylvania, 1997
+- PhD Temple University _2023_
+- LLM Temple University _2011_
+- JD Georgetown Law Center _2000_
+- BA Communication University of Pennsylvania _1997_
 
 ### Clerkships
 - US District Court for the District of New Jersey
-  - Supervisory Pro Se Law Clerk, Prisoner Litigation Office (2013-17)
-  - Law Clerk to Hon. Freda L. Wolfson, USDJ (2003-04, 2009-13)
+  - Supervisory Pro Se Law Clerk, Prisoner Litigation Office _2013-17_
+  - Law Clerk to Hon. Freda L. Wolfson, USDJ _2003-04_, _2009-13_
 - US Court of Appeals for the Seventh Circuit
-  - Law Clerk to Hon. Ann C. Williams, USCJ (2001-02)
+  - Law Clerk to Hon. Ann C. Williams, USCJ _2001-02_
 
 ### Publications 
 
