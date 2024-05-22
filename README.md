@@ -25,6 +25,7 @@ BA Communication | University of Pennsylvania | _1997_
 - Public perceptions of remote courts and equal access: Who prefers remote video proceedings and why? (with Adam Dunbar) https://www.tandfonline.com/doi/abs/10.1080/10345329.2024.2305979
 
 #### Text Analytics and Chatbots
+- Text mining YouTube comment data with Wordfish in R (with Alex Wermer-Colan and Jeff Antsen)
 - Emerging technologies, social marketing and ethics https://doi.org/10.1142/9789811276064_0003
 
 #### Participatory Communication / Communication for Social Change
@@ -32,4 +33,4 @@ BA Communication | University of Pennsylvania | _1997_
 - Participatory communication in international context (with Tom Jacobson) https://oxfordre.com/communication/display/10.1093/acrefore/9780190228613.001.0001/acrefore-9780190228613-e-955
 
 ### Technical / Software Skills
-- R, python, Canvas, Blackboard, Microsoft 365 products, Google Suite
+- R, python, Canvas, Blackboard, Microsoft 365 products, Google Suite, Adobe Premiere Pro, Final Cut Pro, ATEM Live Production Switcher
