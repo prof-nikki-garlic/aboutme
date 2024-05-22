@@ -4,7 +4,7 @@
 Access to Justice / Text Analytics and Chatbots
 
 ### Education
-- PhD Temple University _2023_
+- PhD Media & Communication | Temple University _2023_
 - LLM Temple University _2011_
 - JD Georgetown Law Center _2000_
 - BA Communication University of Pennsylvania _1997_
@@ -27,3 +27,6 @@ Access to Justice / Text Analytics and Chatbots
 #### Participatory Communication / Communication for Social Change
 - Ethics principles for social and behavior change communication (with Tom Jacobson) https://journals.sagepub.com/doi/abs/10.1177/17480485231165479
 - Participatory communication in international context (with Tom Jacobson) https://oxfordre.com/communication/display/10.1093/acrefore/9780190228613.001.0001/acrefore-9780190228613-e-955
+
+### Technical / Software Skills
+- R, python, Canvas, Blackboard, Microsoft 365 products, Google Suite
