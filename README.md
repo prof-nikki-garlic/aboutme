@@ -1,4 +1,4 @@
-# Professor
+# Professor and Legal Information Technologist
 
 ### Research Interests
 Access to Justice / Text Analytics and Chatbots
