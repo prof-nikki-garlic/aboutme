@@ -23,6 +23,7 @@ Access to Justice / Text Analytics and Chatbots
 
 #### Access to Justice
 - Public perceptions of remote courts and equal access: Who prefers remote video proceedings and why? (with Adam Dunbar) https://www.tandfonline.com/doi/abs/10.1080/10345329.2024.2305979
+  
 - Defense perspectives on virtual hearing inequities https://www.americanbar.org/groups/judicial/publications/judicial_division_record_home/2021/vol24-3/defense-perspectives-on-virtual-hearing-inequities/
 
 #### Text Analytics and Chatbots
