@@ -21,6 +21,8 @@ Access to Justice / Text Analytics and Chatbots
 
 ### Publications 
 
+[I'm an inline-style link](https://www.somewebsite.com)
+
 #### Access to Justice
 - Public perceptions of remote courts and equal access: Who prefers remote video proceedings and why? (with Adam Dunbar) [https://www.tandfonline.com/doi/abs/10.1080/10345329.2024.2305979](https://www.tandfonline.com/doi/abs/10.1080/10345329.2024.2305979)
   
