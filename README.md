@@ -10,7 +10,7 @@ Access to Justice / Text Analytics and Chatbots
 - BA Communication, University of Pennsylvania _1997_
 
 ### Current Appointment
-- University of Nevada Reno, Judicial Studies _2020-_
+- Lead Faculty, University of Nevada Reno, Justice Management _2020-_
 
 ### Clerkships
 - US District Court for the District of New Jersey
